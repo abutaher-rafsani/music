@@ -1,1 +1,5 @@
-
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ttpidapp/web.kliqbd.com/site/
+    - /bin/cp -R * $DEPLOYPATH

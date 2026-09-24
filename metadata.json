@@ -1,0 +1,6 @@
+{
+  "name": "KLIQ",
+  "description": "Mobile-first social networking, freelance gig, and micro-task earning ecosystem with an Obsidian dark design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
